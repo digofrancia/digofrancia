@@ -4,7 +4,6 @@
 
 - 🔭 Atualmente estou cursando **Engenharia da Computação** no **Centro Universitário FACENS**!
 - 🌱 Atualmente estou aprendendo sobre **Desenvolvimento Web**!
-- 😄 Pronomes: Ele/Dele
 - ⚡ Curiosidades: Sou um entusiasta de **Jogos** e **Esportes**!
 
 ##
