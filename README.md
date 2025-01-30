@@ -21,12 +21,14 @@
 
 <!-- Site para encontrar os icons: https://devicon.dev  -->
 
-<div style="display: inline_block"><br>
+<div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;"><br>
   <img align="center" alt="Digo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Digo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Digo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Digo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Chibi-pic" height="150" style="border-radius:50px;" src="">
+  <img align="right" alt="Luffy" height="380" style="border-radius: 10px;" src="https://private-user-images.githubusercontent.com/117660756/407963408-d8e803be-fad2-472b-84d5-069d86a736a6.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzgyMDAwMjksIm5iZiI6MTczODE5OTcyOSwicGF0aCI6Ii8xMTc2NjA3NTYvNDA3OTYzNDA4LWQ4ZTgwM2JlLWZhZDItNDcyYi04NGQ1LTA2OWQ4NmE3MzZhNi5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMTMwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDEzMFQwMTE1MjlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yMzIxZmI4ODE3NjNhYTZiYWZmNGI0M2JhNmUwMjkzYWE3ZGM5YzdlNGQ1YzU2MjRhZjg0MGRiMmQxNmQxZTU1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.ED5_a_PMJ1PJDpdSNbHr-UiQs7WnA1XIlVLYoRM2iQg">
+</div>
+
 
 </div>
 
